@@ -9,7 +9,7 @@ Course: ELE201 Microcontrollers and Data Networks (HVL), autumn 2026. Author: Ma
 
 ## Features
 - Ultrasonic distance from the echo pulse width (timer input capture), about 2 to 95 cm.
-- IR distance from the sensor voltage (12-bit ADC, average of 16 readings), about 10 to 65 cm.
+- IR distance from the sensor voltage (12-bit ADC, average of 16 readings), about 10 to 85 cm.
 - 16x2 LCD shows both distances.
 - Proximity alert: green / yellow / red LEDs (above 30 cm, 16 to 30 cm, 15 cm or less) and a
   buzzer whose pitch rises as the target gets closer (below 50 cm).
